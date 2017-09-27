@@ -1,11 +1,11 @@
-/*__DECLARATION__
+\/*__DECLARATION__
  *
  * 
  *      PROJECTNAME
- *      FULLPROJECTNAME/SHORTDESCRIPTION
+ *      FULLPROJECTNAME-SHORTDESCRIPTION
  *
  * 
  *      author: david schmidig [     david@davencyw.net   ]
  *      ETH Zurich             [ davschmi@student.ethz.ch ]
  *      DAVENCYW CODE          [        davencyw.net      ]
- */
+ *\/

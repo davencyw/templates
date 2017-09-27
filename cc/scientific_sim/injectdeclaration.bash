@@ -42,6 +42,3 @@ for file in $(find $injectfolder -name '*.hh'); do
 	sed -i "1s/^/$declarationtext/" $file	
 
 done
-echo "$declarationtext" > test.txt
-
-
