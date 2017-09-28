@@ -28,6 +28,7 @@ struct SimEnv
 
 	//data environment
 	//____________________
+	std::string _outfolder;
 
 };
 
